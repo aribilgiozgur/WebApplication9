@@ -1,0 +1,10 @@
+c:\users\aribilgi\documents\visual studio 2012\Projects\WebApplication9\WA9Service\obj\Debug\WA9Service.csprojResolveAssemblyReference.cache
+c:\users\aribilgi\documents\visual studio 2012\Projects\WebApplication9\WA9Service\bin\Debug\WA9Service.dll.config
+c:\users\aribilgi\documents\visual studio 2012\Projects\WebApplication9\WA9Service\bin\Debug\WA9Service.dll
+c:\users\aribilgi\documents\visual studio 2012\Projects\WebApplication9\WA9Service\bin\Debug\WA9Service.pdb
+c:\users\aribilgi\documents\visual studio 2012\Projects\WebApplication9\WA9Service\bin\Debug\EntityFramework.dll
+c:\users\aribilgi\documents\visual studio 2012\Projects\WebApplication9\WA9Service\bin\Debug\WebApplication9.dll
+c:\users\aribilgi\documents\visual studio 2012\Projects\WebApplication9\WA9Service\bin\Debug\WebApplication9.pdb
+c:\users\aribilgi\documents\visual studio 2012\Projects\WebApplication9\WA9Service\bin\Debug\EntityFramework.xml
+c:\users\aribilgi\documents\visual studio 2012\Projects\WebApplication9\WA9Service\obj\Debug\WA9Service.dll
+c:\users\aribilgi\documents\visual studio 2012\Projects\WebApplication9\WA9Service\obj\Debug\WA9Service.pdb
